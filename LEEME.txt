@@ -1,0 +1,11 @@
+RUTA RENTABLE - como obtener el APK (gratis, sin instalar nada en el PC)
+
+1) Crea cuenta gratis en github.com y un repositorio nuevo (ej: ruta-rentable).
+2) "Add file > Upload files": sube TODO el contenido de esta carpeta
+   (incluida la carpeta oculta .github). Si no la ves, usa Android Studio (opcion B).
+3) Pestana "Actions" > "Build APK" > espera ~4 min > abre la ejecucion
+   > "Artifacts" > descarga RutaRentable-apk > dentro esta app-debug.apk.
+4) Pasalo al celular, instalalo (permite "origenes desconocidos").
+5) Abre la app, guarda tus valores, activa el servicio en Accesibilidad.
+
+Opcion B: abre la carpeta con Android Studio > Build > Build APK(s).
